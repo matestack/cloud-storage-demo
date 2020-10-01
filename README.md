@@ -1,24 +1,5 @@
-# README
+# Matestack Ui Core Cloud Storage UI Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## presented on RUG-B on 1.10.2020
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app requires ImageMagic for image processing. Please make sure to install it on your system!
